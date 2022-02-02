@@ -3,3 +3,4 @@ uuid = "f70c353a-4330-4c86-a8a0-2d4da2974638"
 repo = "https://github.com/DIE-BG/RegistryDIE"
 
 [packages]
+bc2aee9a-d1f8-4cce-8750-9c1afc923989 = { name = "CPIDataBase", path = "C/CPIDataBase" }

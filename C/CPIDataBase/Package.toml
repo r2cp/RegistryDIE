@@ -1,0 +1,3 @@
+name = "CPIDataBase"
+uuid = "bc2aee9a-d1f8-4cce-8750-9c1afc923989"
+repo = "https://github.com/DIE-BG/CPIDataBase.jl.git"
