@@ -1,0 +1,5 @@
+name = "RegistryDIE"
+uuid = "f70c353a-4330-4c86-a8a0-2d4da2974638"
+repo = "https://github.com/DIE-BG/RegistryDIE"
+
+[packages]
