@@ -3,4 +3,5 @@ uuid = "f70c353a-4330-4c86-a8a0-2d4da2974638"
 repo = "https://github.com/DIE-BG/RegistryDIE"
 
 [packages]
+3d0454e0-948f-4743-b998-4d73da99f8a8 = { name = "InflationFunctions", path = "I/InflationFunctions" }
 bc2aee9a-d1f8-4cce-8750-9c1afc923989 = { name = "CPIDataBase", path = "C/CPIDataBase" }
