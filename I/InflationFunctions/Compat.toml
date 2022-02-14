@@ -1,3 +1,8 @@
 [0]
-CPIDataBase = "0.3"
 julia = "1.6.0-1"
+
+["0-0.2.0"]
+CPIDataBase = "0.3"
+
+["0.2.1-0"]
+CPIDataBase = "0.6.0-*"
