@@ -6,3 +6,7 @@ CPIDataBase = "0.3"
 
 ["0.2.1-0"]
 CPIDataBase = "0.6.0-*"
+
+["0.3-0"]
+RecipesBase = "1"
+StatsBase = "0.33"
